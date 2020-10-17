@@ -1,1 +1,1 @@
-# polsl-specydja
+# polsl-spedycja
